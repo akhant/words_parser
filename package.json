@@ -1,0 +1,13 @@
+{
+  "name": "words_parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akhant/words_parser.git",
+  "author": "akhant <a.khantelev@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "needle": "^2.2.1"
+  }
+}
